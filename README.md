@@ -1,1 +1,1 @@
-# MINST-Fashion-model-deepLearning
+# MNIST-Fashion-model-deepLearning
